@@ -1,0 +1,20 @@
+{
+  "name": "cybersamurai_bot",
+  "version": "1.0.0",
+  "description": "Cybersamurai Telegram Bot",
+  "main": "app.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "S.A. Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.5",
+    "telegraf": "^3.35.0"
+  }
+}
